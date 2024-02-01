@@ -2,4 +2,5 @@ pandas
 numpy
 seaborn
 flask
-# -e . # used to link requirements.txt with setup.py
+scikit-learn
+-e .
